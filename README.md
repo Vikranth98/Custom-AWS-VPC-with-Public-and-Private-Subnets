@@ -1,7 +1,7 @@
 # Custom-AWS-VPC-with-Public-and-Private-Subnets
 
 ## Overview
-Deployed a custom VPC on AWS across two Availability Zones with public and private subnet architecture.\
+Deployed a custom VPC on AWS across two Availability Zones with public and private subnet architecture.
 
 ## Architecture
 - VPC: vpc-ap-south-1-test (10.0.0.0/16)
